@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 😄 Pronouns: he/him
 - 📫 How to reach me: Message 5quidwyrm on Discord!
-- ⚡ Fun fact: My first language was Python!
+- ⚡ Fun fact: I don't use QWERTY, I use a different keyboard layout, and I have 150 wpm on that layout!
 
 - 📚 I am learning trying a new language every month!
 - I have tried:
