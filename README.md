@@ -1,5 +1,4 @@
 # Hi there, I'm 5quid 
-- I’m currently working on a [Forth implemented in Rust](https://github.com/5quiwyrm/forest)
 - I’m currently learning Rust
 - How to reach me: Message 5quidwyrm on Discord!
 - Fun fact: I don't use QWERTY! (I use Kuntum)
