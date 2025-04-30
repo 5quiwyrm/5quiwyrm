@@ -1,6 +1,5 @@
 # Hi there, I'm 5quid 
 - I’m currently learning Rust
-- I'm currently working on a [text editor written in Rust](https://github.com/5quiwyrm/bim)
 - How to reach me: Message 5quidwyrm on Discord!
 - Fun fact: I don't use QWERTY! (I use Kuntum)
 - I use [Helix](https://github.com/helix-editor/helix) as my primary code editor, but I know how to use Vim as well.
