@@ -1,12 +1,11 @@
 # Hi there, I'm 5quid 
-- I’m currently learning Rust
-- I'm currently working on a text editor called [bim](https://github.com/5quiwyrm/bim)
+- I’m currently learning Haskell
 - How to reach me: Message 5quidwyrm on Discord!
 - Fun fact: I don't use QWERTY! (I use Kuntum)
-- I use [Helix](https://github.com/helix-editor/helix) as my primary code editor, but I know how to use Vim as well.
+- I use [bim](https://github.com/5quiwyrm/bim) as my primary code editor, but I know how to use Vim and [Helix](https://github.com/helix-editor/helix) as well.
 - I am learning a new language every month!
 - I have tried: Zig, Python, Rust, Clojure
-- I am looking to try: Go, Haskell, Gleam, C#, Javascript/Typescript, C
+- I am looking to try: Go, Gleam, C#, Javascript/Typescript, C
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5quiwyrm&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="5quiwyrm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5quiwyrm&show_icons=true&locale=en&theme=github_dark" alt="5quiwyrm" /></p>
